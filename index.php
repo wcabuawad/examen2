@@ -1,1 +1,1 @@
-<?php include_once("udemy.html"); ?>
+<?php include_once("amazon.html"); ?>
